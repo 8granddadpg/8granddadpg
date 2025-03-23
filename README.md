@@ -3,4 +3,4 @@
 -- Always hoping anyone i  meet, or talk to, have an wonderful day.
 -- Im known (not known at all) for exploiting (or what skids call nowadays, hacking)
 ## Languages i know
-![LUA](https://img.shields.io/badge/Python-90%25-306998)
+![LUA](https://img.shields.io/badge/LUA-90%25-306998)
