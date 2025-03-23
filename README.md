@@ -3,6 +3,7 @@
 # Most Used Programming Languages
 **this shows how many languages i used, not actually well, my knowledge with languages.**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8granddadpg&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 [old about me](https://8granddadpg.github.io/about-me/)
