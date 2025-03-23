@@ -10,3 +10,5 @@
 ## More about 8greendad
 - I've cheated in tons of games.
 - The first ever game that i would remember cheating in was bedwars, which then comes to this script. [Vape V4](https://github.com/7GrandDadPGN/VapeV4ForRoblox)
+- Although i dont cheat as much since i do have an life, i play fairly in minecraft bedwars.
+- Theres not much to say about me, thanks for reading? Anyways, you can check out 7greendad here: (7greendad)[https://github.com/7GrandDadPGN]
