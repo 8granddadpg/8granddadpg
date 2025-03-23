@@ -7,5 +7,6 @@
 ![LUA](https://img.shields.io/badge/LUA-70%25-396498)  
 ![HTML](https://img.shields.io/badge/HTML-55%25-396298)
 
-## Idols
-***7greendad***
+## More about 8greendad
+- I've cheated in tons of games.
+- The first ever game that i would remember cheating in was bedwars, which then comes to this script. [Vape V4](https://github.com/7GrandDadPGN/VapeV4ForRoblox)
