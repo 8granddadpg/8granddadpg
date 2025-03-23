@@ -5,4 +5,3 @@
 ## Languages i know
 ![LUA](https://img.shields.io/badge/LUA-30%30-306998)
 ![HTML](https://img.shields.io/badge/HTML-55%55-306998)
-![CSS](https://img.shields.io/badge/CSS-10%10-306998)
