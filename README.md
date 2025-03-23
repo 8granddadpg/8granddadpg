@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8granddadpg&layout=compact&theme=light)
 
-[old about me]([https://www.buymeacookie.com](https://8granddadpg.github.io/about-me/))
+[old about me](https://8granddadpg.github.io/about-me/)
